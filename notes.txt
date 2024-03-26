@@ -1,0 +1,4 @@
+# Hello World ## Yes sir
+today is sunday 25th Feb 2024
+CS50 Python
+ Hello, CS50 Python!
